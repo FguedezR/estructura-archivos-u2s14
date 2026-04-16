@@ -1,3 +1,4 @@
+tree -N
 .
 ├── README.md
 ├── config
